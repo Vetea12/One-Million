@@ -1,0 +1,40 @@
+/* Vos customisations des classes de Bootstrap */
+#get-involved {
+	text-align: center;
+	background-color: #F5F5F5;
+	}
+
+#home {
+	background-image: url(../images/hero-image.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	padding: 10%;
+	text-align:center;
+}
+
+
+#who {
+	text-align: center;
+}
+
+
+
+#footer {
+	width: 1262px;
+  height: 100%;
+  margin-left: -61px;
+}
+
+/* Responsive Styling */
+
+@media (max-width: 1199px) {
+
+}
+
+@media (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+
+}
